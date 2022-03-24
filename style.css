@@ -9,7 +9,6 @@ body {
 }
 main {
   /* position: relative; */
-  color: white;
   border-radius: 20px;
   width: 70%;
   height: 95%;
@@ -115,7 +114,7 @@ ul span {
   height: 35px;
   border-radius: 5px;
   margin-bottom: 10px;
-  color: rgb(46, 44, 44);
+  color: white;
 }
 .firstnameproperty {
   position: relative;
